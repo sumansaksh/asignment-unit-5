@@ -1,0 +1,18 @@
+.redcolor {
+    color: red;
+    
+}
+
+.text{
+    width: 40%;
+    height:200px;
+    margin-left: 10%;
+}
+
+img{
+    width: 100px;
+}
+
+#root{
+    display: flex;
+}
