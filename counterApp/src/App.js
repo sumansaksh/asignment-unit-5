@@ -19,6 +19,7 @@ export default function App() {
       <button onClick={()=>addOne(1)}>increment</button>
       <button onClick={()=>addOne(-1)}>decrement</button>
       <button onClick={()=>double(2)}>double</button>
+      <button onClick={()=>double(0)}>Reset</button>
     </div>
   );
 }
