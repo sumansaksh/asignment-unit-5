@@ -5,7 +5,7 @@ function App() {
   
   const arr =["Mobile Operating System", "Mobile Manufacturers"]
   const arr2 =["Android", "Blackberry","iPhone","Windws Phone"]
-  const arr3 =["samsung", "HTC","Micromax","Aple"]
+  const arr3 =["samsung", "HTC","Micromax","Apple"]
   return (
     <div className="App">
       {/* heading 1 */}
